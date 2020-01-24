@@ -1,0 +1,29 @@
+.btn-group-vertical > button{
+    margin-bottom:10px;
+    border-radius:10px !important;
+}
+
+body {
+    background-image: url("images/background.jpg");
+    background-color: #cccccc;
+}
+.lead{
+    font-style: italic;
+    font-family: cursive;
+    font-size: 20px;
+}
+#play{
+    font-family: cursive;
+    text-align: right;
+    margin-left: 20px;
+}
+#htbutton{
+   margin-left: 200px;
+}
+.container{
+    margin-top: 80px;
+}
+.jumbotron{
+    background-color: aqua;
+}
+
